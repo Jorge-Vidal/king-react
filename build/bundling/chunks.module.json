@@ -1,0 +1,77 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "251ef2d7ac5ff472ded3",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\jorge\\Documents\\TRABAJO\\king-react\\king-react-proyect\\build\\static",
+  "assetsByChunkName": {
+    "king-react-proyect": [
+      "king-react-proyect.module.js",
+      "king-react-proyect.c446d573d269252430fd.hot-update.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "c446d573d269252430fd.hot-update.json",
+      "size": 60,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "king-react-proyect.c446d573d269252430fd.hot-update.js",
+      "size": 2678,
+      "chunks": [
+        "king-react-proyect"
+      ],
+      "chunkNames": [
+        "king-react-proyect"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "king-react-proyect.module.js",
+      "size": 6418952,
+      "chunks": [
+        "king-react-proyect"
+      ],
+      "chunkNames": [
+        "king-react-proyect"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "king-react-proyect": {
+      "chunks": [
+        "king-react-proyect"
+      ],
+      "assets": [
+        "king-react-proyect.module.js",
+        "king-react-proyect.c446d573d269252430fd.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "king-react-proyect",
+      "files": [
+        "king-react-proyect.module.js",
+        "king-react-proyect.c446d573d269252430fd.hot-update.js"
+      ]
+    }
+  ]
+}

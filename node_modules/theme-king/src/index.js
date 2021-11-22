@@ -1,11 +1,5 @@
-const Root = () => {
-  return (
-    <>
-      You can edit your package in:
-      <pre>packages\theme-king\src\index.js</pre>
-    </>
-  );
-};
+import React from 'react';
+import Root from './Root';
 
 export default {
   name: "theme-king",
